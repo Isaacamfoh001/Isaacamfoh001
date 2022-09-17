@@ -7,10 +7,10 @@ I'm a Software Engineer and Community person who currently serve as the Lead for
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying Cloud Engineering at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022 & Computer Science at Lancaster University, Ghana.
+- 💡 Fun fact: I'm currently learning Cloud Engineering at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022 & Computer Science at Lancaster University, Ghana.
 - 🌱 I’m currently working with  HTML, CSS, Javascript, ReactJs, NodeJs, MongoDB, Express & still learning....
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities in software engineering.
-- 💼 Job interests: Software Engineer, Front Engineer, or backend Engineer Full Stack Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer || Front-end web developer || Backend-end web developer || Full Stack web developer (Entry/Junior level).
 - 📫 You can contact me by emailing isaacamfoh001@gmail.com
 
 ---

@@ -9,9 +9,9 @@ I'm a Software Engineer and Community person who currently serve as the Lead for
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 🌱 I’m currently working with  HTML, CSS, Javascript, ReactJs, NodeJs, MongoDB, Express & still learning....
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities in software engineering.
-- 💼 Job interests: Software Engineer || Front-end web developer || Backend-end web developer || Full Stack web developer (Entry/Junior level).
+- 🌱 I’m passionate about algorithm implementation, design and analysis.
+- 😊 I’m open to open source projects, hackathons, internships, and opportunities in software engineering.
+- 💼 Job interests: Software Engineer.
 - 📫 You can contact me by emailing isaacamfoh001@gmail.com
 
 ---

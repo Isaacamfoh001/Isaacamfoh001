@@ -4,7 +4,7 @@
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@isaackojoamfoh-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/isaackojoamfoh)](https://twitter.com/isaackojoamfoh) -->
 
-I'm a Software Engineer passinate about buuilding tools and systems that make life better.
+I'm a Software Engineer passionate about building tools and systems that make life better.
 
 **Here's a quick summary about me**:
 
